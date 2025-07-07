@@ -24,4 +24,4 @@
 内容盗链：非法采集他站资源，稳定性与安全性极差。
 
 因此，推荐您优先选择有良好口碑、无需注册即可观看的资源站，或使用海外公开论坛（如 Reddit）中网友整理的清单。
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/yhx482/25425 ）</span>
